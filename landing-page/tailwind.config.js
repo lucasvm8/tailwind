@@ -16,7 +16,8 @@ module.exports = {
         'sans': ['Helvetica', 'Arial', 'sans-serif']
       },
       colors: {
-        'custom': '#FFD482'
+        'custom': '#FFD482',
+        'photographerBG': '#EE8162'
       }
     },
   },
